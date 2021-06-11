@@ -1,5 +1,5 @@
 trigger:
-        - main
+        - master
         pool:
           vmImage: 'ubuntu-1604' # set to windows-latest or another Windows vmImage for Windows builds
 
